@@ -1,0 +1,5 @@
+Passo 1: criar minha pagina de internet
+Passo 2: registrar um dominio .com.br para hospedar o site
+Passo 3: estudar HTML
+Passo 4: estudar CSS
+Passo 5: estudar JavaScript
